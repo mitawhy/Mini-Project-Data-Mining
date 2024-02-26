@@ -1,1 +1,1 @@
-# Startup Success/Fail Prediction from Crunchbase
+# Memprediksi Keberhasilan Startup dari Crunchbase
