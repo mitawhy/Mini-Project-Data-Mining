@@ -1,1 +1,3 @@
-# Mini-Project-Data-Mining
+# Mini Project Data Mining
+## Studi Kasus "Memprediksi Keberhasilan Startup dari Crunchbase"
+Melihat banyaknya startup yang didirikan saat ini, membuat kita berpikir, tidak mungkin seluruh startup tersebut mendapatkan kesuksesannya. Lantas, perusahan apa dan di bidang apa kah yang akan mendapatkan kesuksesan tersebut? Dimana kesuksesan sebuah perusahaan didefinisikan sebagai peristiwa yang memberikan para pendiri perusahaan sejumlah besar uang melalui proses M&A (Merger and Acquisition) atau IPO (Initial Public Offering). Dengan adanya data yang menunjukkan prediksi atas kesuksesan startup yang tengah beroperasi saat ini, memberikan pandangan kepada para investor atau pemangku kepentingan lainnya dalam membuat keputusan penting seperti melakukan investasi. Serta dapat membantu para calon pendiri startup agar dapat menyusun strategi yang baik demi kesuksesan startupnya.
